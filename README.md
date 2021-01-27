@@ -1,6 +1,6 @@
 # Scripts For School
 
-This is a project that I put my bash scripts that are related to the tasks I have as a student on University.
+This is a project that I put my bash scripts that are related to the tasks I have as a student on university.
 
 # Saving and calculating your grades
 
