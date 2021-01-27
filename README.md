@@ -21,10 +21,10 @@ CE215 - Discrete Structures,85.00,70,0.25,Homeworks,84,0.3,Midterm
 CE221 - Data Structures and Algorithms,90.00,95,0.3,Midterm,81,0.3,Lab
 ```
 
-- Once you save your grades file, make calcGrades.sh executable with running:
+- Once you save your grades file, make calcGrades.sh executable with the following:
 
 ```
-$ chmod +x calcGrades
+$ chmod +x calcGrades.sh
 ```
 
 - Then you should be able to run the script and see the output
